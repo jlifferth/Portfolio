@@ -1,7 +1,7 @@
 # Portfolio
 ...
 
-#Jonathan Lifferth
+# Jonathan Lifferth
 *Computational Biologist*
 
 ## Glucose monitoring app
